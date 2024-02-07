@@ -1,0 +1,15 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.country-list,
+.country-detail {
+  flex: 1;
+  margin: 0 20px;
+}
